@@ -26,10 +26,10 @@ Tree or Not Tree?
 -----------------
 
   
-{{< quiz_multiple_choice questionId="Q1_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp; {{< resource fd225c5d-157b-99e7-ff50-fd687745b817 "" >}} &nbsp;{{< /quiz_choice >}}
-{{< quiz_choice isCorrect="true" >}}&nbsp; {{< resource d6c4b19d-8512-ad73-7463-1667da702533 "" >}} &nbsp;{{< /quiz_choice >}}
-{{< quiz_choice isCorrect="false" >}}&nbsp; {{< resource a0da4bb0-496b-b05c-c436-b34b2fa8f33b "" >}} &nbsp;{{< /quiz_choice >}}
-{{< quiz_choice isCorrect="true" >}}&nbsp; {{< resource d0228d39-e40c-df45-017b-b210f0f68f5e "" >}} &nbsp;{{< /quiz_choice >}}{{< /quiz_choices >}}
+{{< quiz_multiple_choice questionId="Q1_div" >}}{{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}&nbsp; {{< resource "fd225c5d-157b-99e7-ff50-fd687745b817" >}} &nbsp;{{< /quiz_choice >}}
+{{< quiz_choice isCorrect="true" >}}&nbsp; {{< resource "d6c4b19d-8512-ad73-7463-1667da702533" >}} &nbsp;{{< /quiz_choice >}}
+{{< quiz_choice isCorrect="false" >}}&nbsp; {{< resource "a0da4bb0-496b-b05c-c436-b34b2fa8f33b" >}} &nbsp;{{< /quiz_choice >}}
+{{< quiz_choice isCorrect="true" >}}&nbsp; {{< resource "d0228d39-e40c-df45-017b-b210f0f68f5e" >}} &nbsp;{{< /quiz_choice >}}{{< /quiz_choices >}}
 {{< quiz_solution >}}Graphs 2 and 4 are trees, since they are both connected and acyclic. In contrast, graphs 1 and 3 are not trees: graph 1 is disconnected, while graph 3 contains a cycle.{{< /quiz_solution >}}{{< /quiz_multiple_choice >}}
 
 *   {{% resource_link efd45133-bd7b-8c4f-cfe5-0e4364935d4a "BackSpan all the Graphs!" %}}
